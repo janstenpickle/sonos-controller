@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-class CommandBuilder {
+publi class CommandBuilder {
     private final static int    SOAP_PORT                    = 1400;
     private final static String TRANSPORT_ENDPOINT           = "/MediaRenderer/AVTransport/Control";
     private final static String TRANSPORT_SERVICE            = "urn:schemas-upnp-org:service:AVTransport:1";
